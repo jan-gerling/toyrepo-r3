@@ -1,6 +1,3 @@
-package inheritance.superinfo;
-
-
 public abstract class AnimalSuper {
 
     private String breed;

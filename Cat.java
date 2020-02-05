@@ -1,4 +1,4 @@
-public class Cat extends AnimalSuper {
+public class Cat extends Animal {
 
 
     @Override

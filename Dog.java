@@ -3,7 +3,7 @@
 public class Dog extends Animal{
 
     @Override
-    void noise() {
+    void sound() {
         System.out.println("Bark");
     }
 }

@@ -10,4 +10,8 @@ public abstract class AnimalSuper {
         System.out.print("Walking as a " + info);
     }
 
+    public void catchBall() {
+        System.out.print("This is for dog only :P");
+    }
+
 }

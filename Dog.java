@@ -5,5 +5,5 @@ public class Dog extends AnimalSuper {
         System.out.println("Bark " + noiseInfo);
     }
 
-    
+
 }

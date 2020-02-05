@@ -1,6 +1,6 @@
 
 
-public class Do extends Animal{
+public class Dog extends Animal{
 
     @Override
     void noise() {

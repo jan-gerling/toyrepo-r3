@@ -1,6 +1,6 @@
 
 public abstract class Animal {
 
-    abstract void sound(String info);
+    abstract void sound(String noise);
 
 }

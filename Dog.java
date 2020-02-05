@@ -2,7 +2,7 @@ import inheritance.superinfo.AnimalSuper;
 
 public class Dog extends AnimalSuper {
 
-    private String bree;
+    private String breed;
 
     @Override
     public void sound(String noise) {

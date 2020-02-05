@@ -1,9 +1,9 @@
+import inheritance.superinfo.AnimalSuper;
 
-
-public class Dog extends Animal{
+public class Dog extends AnimalSuper {
 
     @Override
-    void sound(String noise) {
+    public void sound(String noise) {
         System.out.println("Bark " + noise);
     }
 }

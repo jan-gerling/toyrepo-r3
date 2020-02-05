@@ -6,7 +6,5 @@ public class Cat extends AnimalSuper {
         System.out.println("Miau " + noiseInfo);
     }
 
-    public void walk(String info) {
-        System.out.print("Walking as a " + info);
-    }
+
 }

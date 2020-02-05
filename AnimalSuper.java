@@ -6,4 +6,8 @@ public abstract class AnimalSuper {
 
     public abstract void sound(String noise);
 
+    public void walk(String info) {
+        System.out.print("Walking as a " + info);
+    }
+
 }

@@ -1,6 +1,6 @@
-public class Dog extends AnimalSuper {
+import inheritance.superinfo.AnimalSuper;
 
-    private String breed;
+public class Dog extends AnimalSuper {
 
     @Override
     public void sound(String noise) {
